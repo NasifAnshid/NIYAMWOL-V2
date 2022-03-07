@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ TAURUS BOT IS WORKING !')
+            chalk.green.bold('✅ SHIBISER BOT IS WORKING !')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -158,7 +158,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*SHIBI OKKE SET AYI BRO*', MessageType.text);
                 }
             }
             else {
@@ -206,7 +206,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*SHIBI OKKE SET AYI BRO*', MessageType.text);
                 }
             }
             else {
@@ -229,7 +229,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*SHIBI OKKE SET AYI BRO*', MessageType.text);
                 }
             }
         }
@@ -396,8 +396,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐀𝐔𝐑𝐔𝐒 𝐄𝐑𝐑𝐎𝐑࿐ ~______~*' +
-                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ꜱʜɪʙɪꜱᴇʀ࿐ ~______~*' +
+                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv``` ' 
                                     , MessageType.text);
                             }
                         }
