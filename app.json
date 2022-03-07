@@ -1,6 +1,6 @@
 {
     "name": "SHIBISER-BOT",
-    "description": "Taurus Bot is the Modified Version of WhatsAsena, Made By @shibi with Baileys.",
+    "description": "Shibi Bot is the Modified Version of WhatsAsena, Made By @shibi with Baileys.",
     "logo": "IMG-20220211-WA0027.jpg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/SHIBI-SER/SHIBI-SER_V2",
@@ -8,8 +8,8 @@
     "success_url": "https://github.com/SHIBI-SER/SHIBI-SER_V2",
     "stack": "container",
     "env": {
-        "TAURUS_CODE": {
-            "description": "Type here yours Taurus Code.",
+        "SHIBI_CODE": {
+            "description": "Type here yours Shibi Code.",
             "required": true
         },
         "SUDO": {
