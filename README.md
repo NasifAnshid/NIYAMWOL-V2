@@ -119,20 +119,27 @@ Absolutely, Taurus-Bot executives do not accept responsibility.
 By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
 ```
 
-[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/I-AM-MUHAMMED)
+[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/SHIBI-SER)
 
 
 ## Developers 
   <div align="center">
     
-  [![MUHAMMED](https://github.com/I-AM-MUHAMMED.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
-----|----|----
-[MUHAMMED](https://github.com/I-AM-MUHAMMED) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
+  
+----|----|---
+
+`Base, Bug Fixes, Modules`
+
+  [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
+----|
+   `Re-Developer, Bug Fixes, Modules, Commits`
+
+
+  
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`SHIBI`
         
         
 ## License 
