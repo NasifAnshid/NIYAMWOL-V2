@@ -59,7 +59,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/SHIBI-SER/SHIBI-SER_V2
-$ cd Taurus-Bot
+$ cd SHIBI-SER_V2Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node shibi.js
