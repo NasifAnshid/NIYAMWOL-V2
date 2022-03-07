@@ -1,7 +1,7 @@
 {
     "name": "SHIBISER-BOT",
     "description": "Shibi Bot is the Modified Version of WhatsAsena, Made By @shibi with Baileys.",
-    "logo": "IMG-20220211-WA0027.jpg",
+    "logo": "https://i.imgur.com/XCM04h0.jpeg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/SHIBI-SER/SHIBI-SER_V2",
     "website":   "https://github.com/SHIBI-SER/SHIBI-SER_V2",
@@ -150,7 +150,7 @@
             "value": "39999600"
         },
         "WORK_TYPE": {
-            "description": "Taurus Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Shibi Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -170,7 +170,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands \n\n codded by Muhammed 🖤 {pp}```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands \n\n codded by shibi 🖤 {pp}```"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
