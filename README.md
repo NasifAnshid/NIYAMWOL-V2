@@ -115,11 +115,11 @@ $ node shibi.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
+Absolutely, SHIBI-Bot executives do not accept responsibility.
 By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
 ```
 
-[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/SHIBI-SER)
+[![shibi](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/SHIBI-SER)
 
 
 ## Developers 
