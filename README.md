@@ -75,32 +75,32 @@ $ node shibi.js
 
 ----
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=I-AM-MUHAMMED&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHIBI-SER&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus.efx?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="taurus.efx" height="45" width="45" /></a>
+<a href="https://instagram.com/SHIBI__ZX?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="SHIBI__ZX" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
+<a href="https://youtube.com/channel/UChKlb9ibvT1ltiIXww2bsLw" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I-AM-MUHAMMED&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIBI-SER&show_icons=true&theme=dark&locale=en" alt="SHIBI-SER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AM-MUHAMMED&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBI-SER&theme=dark" alt="SHIBI-SER" /></p>
 </p>
 
 
 ##
   <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
