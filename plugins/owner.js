@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*TAURUS BOT BY MUHAMMED*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*SHIBISER BY SHIBI*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
