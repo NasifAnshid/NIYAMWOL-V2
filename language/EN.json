@@ -239,12 +239,12 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ʏᴏᴜʀ ᴛᴀᴜʀᴜs ɪs ᴀʟʀᴇᴀᴅʏ ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\nChanges:\n```",
+            "UPDATE": "* ꜱʜɪʙɪꜱᴇʀ ᴜᴩᴅᴀᴛᴇ ᴀɴᴀʟʟᴏ ʙʀᴏ 🙈💖*",
+            "NEW_UPDATE": "*Shibi ser kk update cheyyan ind bro update now enn nekk🙂💖!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```WAIT FEW SECONDS UPDATING...👻```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*UPDATE SUCCESSFULLY COMPLETED🧚‍♀️✅*",
+            "UPDATED": "*SHIBISER UPDATE AYI BRO 🧚‍♀️✅*",
             "UPDATED_LOCAL": "*✅ Updated!🕺*",
             "AFTER_UPDATE": "*🕺 shibi Restarting*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
