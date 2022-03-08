@@ -7,23 +7,27 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://telegra.ph/file/991a06ce548b9bf7d5185.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/XCM04h0.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `RDX BOT CREATED BY ABHIRAM SACHU 
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `SHIBISER BOT CREATED BY SHIBISER 
 
-🌐CREATOR NUMBER : wa.me/18254138025
+🌐 ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : wa.me/917594029466
 
-🌐WEBSITE LINK : https://bit.ly/3rnlWcu
+🌐 ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/SHIBI-SER/SHIBI-SER_V2
 
-🌐GIT LINK : https://github.com/SHIBI-SER/SHIBI-SER_V2
+🌐 ɢʀᴏᴜᴩ ʟɪɴᴋ : https://tinyurl.com/y9ldzfzo
 
-🌐 GROUP LINK : https://tinyurl.com/y9ldzfzo
+🌐 ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅꜱ :https://tinyurl.com/yacnvlto
 
-🌐 AND THANKS TO MY  COLLABORATORS 🥰
+🌐 ꜱᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ: https://tinyurl.com/y7tyqdzo
 
-🌐THANKS TO SUPPORT 😊🥰
+🌐 ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ: https://t.ly/TGSb
 
-🌐RDX BOT🌐
+🌐 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚂𝙷𝙸𝙱𝙸 𝚂𝙴𝚁 𝙱𝙾𝚃 💗
+
+🌐 ꜱʜɪʙɪꜱᴇʀ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ🍃😊🥰
+
+🌐SHIBI BOT🌐
 `}) 
 
 }));
