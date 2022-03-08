@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(Config.LIZA, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('taurus.jpg'), mimetype: Mimetype.png, caption: `╭───────────────────╮
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('shibi.jpg'), mimetype: Mimetype.png, caption: `╭───────────────────╮
    ` + Config.BOTV2 + `
 ╰───────────────────╯
 ╭───────────────────╮
