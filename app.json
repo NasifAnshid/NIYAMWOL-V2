@@ -75,7 +75,7 @@
             "required": true,
             "value": "false"
         },
-        "TAURUS_AI": {
+        "SHIBI_AI": {
             "description": "turn on chat back auto reply Tᴀᴜʀᴜs (use true to on and fale to off)",
             "required": true,
             "value": "false"
