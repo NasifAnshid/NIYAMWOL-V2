@@ -64,7 +64,7 @@ module.exports = {
     LIZA: process.env.LOGO_LINK === undefined ? 'https://bit.ly/3cwa8fv' : process.env.LOGO_LINK,
     MWOL: process.env.BGM_DURATION === undefined ? '39999600' : process.env.BGM_DURATION,
     BOTV2: process.env.BOTV2_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴛᴀᴜʀᴜs࿐' : process.env.BOTV2_NAME,
-    TAURUS_AI: process.env.SHIBI_AI === undefined ? 'false' : process.env.SHIBI_AI,
+    TAURUS_AI: process.env.TAURUS_AI === undefined ? 'false' : process.env.TAURUS_AI,
     ALIVEBUTTON: process.env.ALIVEBUTTON === undefined ? 'ʜᴇʟʟᴏ ʙʀᴏ' : process.env.ALIVEBUTTON,
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ʜɪ ᴅᴜᴅᴇ' : process.env.ALIVE_BUTTON,
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://bit.ly/3cwa8fv' : process.env.LG_LOGO,
