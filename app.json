@@ -76,7 +76,7 @@
             "value": "false"
         },
         "SHIBI_AI": {
-            "description": "turn on chat back auto reply Tᴀᴜʀᴜs (use true to on and fale to off)",
+            "description": "turn on chat back auto reply ꜱʜɪʙɪ ꜱᴇʀ (use true to on and fale to off)",
             "required": true,
             "value": "false"
         },
