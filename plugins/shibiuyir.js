@@ -10,12 +10,12 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Badboy.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Badboy.addCommand({pattern: 'clown', fromMe: false, desc: 'it send bot clown'}, (async (message, match) => {
 
     var r_text = new Array ();
     
     *edaa eda manda idh shibi ahada thayathilla*
-│
+│   *shibi enn vacha mandan allada fire ahda😅*
 │ 
 │
 │   ❏🎀ꜱʜɪʙɪ sɪʀ🎀❏
