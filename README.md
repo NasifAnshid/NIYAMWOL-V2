@@ -15,7 +15,7 @@
 <div align="center">
  
 <div align="center">
-        <img src="https://i.imgur.com/dsCPUHZ.jpeg" width="250" height="250"/>
+        <img src="https://i.imgur.com/aqjv8k9.jpeg" width="250" height="250"/>
 </p>
     
     
@@ -23,16 +23,16 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="SHIBI-SER" src="https://img.shields.io/badge/shibiser-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="NasifAnshid" src="https://img.shields.io/badge/shibiser-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/SHIBI-SER"><img title="Author" src="https://img.shields.io/badge/Author-SHIBI-SER?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/NasifAnshid"><img title="Author" src="https://img.shields.io/badge/Author-SHIBI-SER?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/SHIHI-SER">SHIBI-SER</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/NasifAnshid">NasifAnshid</a>
     
        | © |
         Reserved |
