@@ -1,14 +1,14 @@
 ##### ▶ IF YOU CAN'T DEPLOY CREATE [GITHUB ACCOUNT](github.com)
 
-##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/SHIBI-SER/SHIBI-SER_V2
+##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/NasifAnshid/NIYAMWOL-V2
 
-##### ▶ CHANGE MY USERNAME SHIBI-SER TO YOUR USER NAME AND DEPLOY
-
-<p align="center">
-𝚂𝙷𝙸𝙱𝙸 𝚂𝙴𝚁 𝙱𝙾𝚃💖
+##### ▶ CHANGE MY USERNAME NasifAnshid TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 🍃 𝙱𝚈 𝚂𝙷𝙸𝙱𝙸 𝚂𝙴𝚁 
+ɴɪʏᴀᴍᴡᴏʟ 𝙱𝙾𝚃💖
+
+<p align="center">
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 🍃 𝙱𝚈  ɴɪʏᴀᴍᴡᴏʟ
 
 ##
 
@@ -28,7 +28,7 @@
 </p>
        
   <p align="center">
-<a href="https://github.com/NasifAnshid"><img title="Author" src="https://img.shields.io/badge/Author-SHIBI-SER?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/NasifAnshid"><img title="Author" src="https://img.shields.io/badge/Author-Nasif?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -46,7 +46,7 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIBI-SER/SHIBI-SER_V2.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NasifAnshid/NIYAMWOL-V2.git) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shibi007/SHIBI-SER-NEW-QR-CODE-2?v=1)
 
@@ -67,7 +67,7 @@ $ node shibi.js
       
 ```js
 SETUP
-$ git clone https://github.com/SHIBI-SER/SHIBI-SER_V2
+$ git clone https://github.com/NasifAnshid/NIYAMWOL-V2
 $ cd Shibiser-Bot
 $ npm i
 $ node shibi.js
@@ -81,7 +81,7 @@ $ node shibi.js
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/SHIBI__ZX?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="SHIBI__ZX" height="45" width="45" /></a>
+<a href="https://instagram.com/SHIBI__ZX?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="Anshid__DX" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
@@ -91,16 +91,16 @@ $ node shibi.js
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIBI-SER&show_icons=true&theme=dark&locale=en" alt="SHIBI-SER" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIBI-SER&show_icons=true&theme=dark&locale=en" alt="Nasif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBI-SER&theme=dark" alt="SHIBI-SER" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NasifAnshid&theme=dark" alt="NasifAnshid" /></p>
 </p>
 
 
 ##
   <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
@@ -130,7 +130,7 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 
 `Base, Bug Fixes, Modules`
 
-  [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
+  [![Nasif](https://i.imgur.com/h5k3TRA.jpeg)](https://github.com/NasifAnshid)[`Anshid`](https://github.com/)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
@@ -139,7 +139,7 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
   </div>
 
 ## Contributer 
-`SHIBI`
+`NASIF`
         
         
 ## License 
