@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ SHIBISER BOT IS WORKING !')
+            chalk.green.bold('✅ Niyamwol IS WORKING !')
         );
         await new Promise(r => setTimeout(r, 1100));
 
