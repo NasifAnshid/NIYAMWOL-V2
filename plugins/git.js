@@ -7,13 +7,13 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/XCM04h0.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/aqjv8k9.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `SHIBISER BOT CREATED BY SHIBISER 
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `ɴɪʏᴀᴍᴡᴏʟ BOT CREATED BY ɴᴀsɪғ ᴊʀ ᴀɴsʜɪᴅ ᴅx
 
-🌐 ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : wa.me/917594029466
+🌐 ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : wa.me/919037601967
 
-🌐 ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/SHIBI-SER/SHIBI-SER_V2
+🌐 ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/NasifAnshid/NIYAMWOL-V2
 
 🌐 ɢʀᴏᴜᴩ ʟɪɴᴋ : https://tinyurl.com/y9ldzfzo
 
@@ -25,9 +25,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 🌐 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚂𝙷𝙸𝙱𝙸 𝚂𝙴𝚁 𝙱𝙾𝚃 💗
 
-🌐 ꜱʜɪʙɪꜱᴇʀ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ🍃😊🥰
+🌐 ɴɪʏᴀ ᴍᴡᴏʟ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ🍃😊🥰
 
-🌐SHIBI BOT🌐
+🌐ɴᴀsɪғ ᴊʀ ᴀɴsʜɪᴅ ᴅx🌐
 `}) 
 
 }));
